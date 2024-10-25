@@ -2,6 +2,7 @@
 
 ## 1. First Slide
     ![Screenshot 2024-10-25 195041](https://github.com/user-attachments/assets/c5ff8077-7e16-470b-8502-ed4e8ef85ac8)
+![Screenshot 2024-10-25 195041](https://github.com/user-attachments/assets/6907d9f2-8ed0-4a98-8589-7d498d4e49ae)
 
 ## 2. Second Slide
     ![Screenshot 2024-10-25 195059](https://github.com/user-attachments/assets/6c581344-b0c4-47e8-836d-21d71e983ea7)
